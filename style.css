@@ -49,3 +49,26 @@ body{
     background-position: right;
     background-size: 100px;
 }
+
+.wrap3{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+   background-position: left;
+}
+
+.wrap_experience{
+    display: flex;
+}
+
+#wrap3_header{
+    margin-left: 30px;
+}
+
+.about_ex h3{
+    color: orange;
+}
+
+.about_ex{
+    box-shadow:5px 7px 40px grey;
+    border-left: 7px solid tomato;
+}
