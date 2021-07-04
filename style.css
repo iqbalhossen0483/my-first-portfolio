@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 
-.wrap{
+.wrap1{
     display: flex;
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
@@ -11,10 +11,11 @@ body{
 
 .about_me{
     height: 500Px;
-    width: 60%;
+    width: 55%;
     padding: 20px;
     text-align: justify;
     margin: 20px;
+    margin-left: 5%;
     overflow: hidden;
 }
 
@@ -41,3 +42,10 @@ body{
     color:orange
 }
 
+.wrap2{
+    display: flex;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+}
